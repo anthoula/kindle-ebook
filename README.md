@@ -14,7 +14,7 @@ These file types will not convert properly to Kindle Digital Platform (KDP).
 - `.docx`
 - `.pdf`
 
-## Table of Contents
+## Table of Contents Setup
 
 ```
 Table of Contents
@@ -83,7 +83,7 @@ The link directs you to the heading, not a page number, which makes reordering a
 
 Remove hard returns and insert page breaks at the end of chapters for optimal Kindle viewing.
 
-## How to Add and Format Images Inside Your Kindle Book
+## How to Add and Format Images for your Kindle eBook
 
 ### Image File Requirements
 - Photos inserted into your book should be in `.jpg` file type. Kindle will recognize this format. There is limited support for `.png`, and `.bmp`.
